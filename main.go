@@ -1,7 +1,7 @@
 package main
 
 /*
-Please do not be an asshole and use the script for malicious porposes as its not only very illegal but it also violates the gpl license of which this software is licensed under!
+Please do not be an asshole and use the script for malicious purposes as its not only very illegal but it also violates the gpl license of which this software is licensed under!
 if you steal this code or make it proprietary. you are mega cringe
 Consider changing the username and password variable in the source code located here
 after changing the variables compile the program with "go build main.go"
